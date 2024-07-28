@@ -1,7 +1,6 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png" />
-    <HelloWorld msg="Plus6Games" />
+    <HelloWorld msg="Plus6Games Web" />
   </div>
 </template>
 
