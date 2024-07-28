@@ -17,6 +17,13 @@ export default {
 </script>
 
 <style>
+html,
+body,
+#app {
+  user-select: none;
+  -webkit-user-select: none;
+  -webkit-user-drag: none;
+}
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
